@@ -1,2 +1,1 @@
-# catTinder2
-Mini version
+TinDog Starting Files
